@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, I'm Suna Kang <!--<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">--></h3>
+<h3 align="center"> Hi, I'm Suna Kang <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"></h3>
 <div align="center">
   <a href="https://k-ang.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/My Blog-FD3A5C?style=flat-square&logo=tvtime&logoColor=white"/>
