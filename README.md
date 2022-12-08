@@ -31,6 +31,6 @@
 <h3 align="center"> Algorithm </h3>
 <div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkwjddlzz)](https://solved.ac/profile/acrnm148)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acrnm148)](https://solved.ac/profile/acrnm148)
   
 </div>
