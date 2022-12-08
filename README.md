@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/My Blog-FD3A5C?style=flat-square&logo=Hotjar&logoColor=white"/>
   <a/>
   <a href="mailto:acrnm148@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/acrnm148@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a/>
 </div>
 
