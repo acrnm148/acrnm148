@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/acrnm148@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a/>
   <a href="https://sunakang.notion.site/sunakang/df20017a98a8444d96c2b75a3e380214" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-gray?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-darkgray?style=flat-square&logo=Notion&logoColor=white"/>
   <a/>
 </div>
 
