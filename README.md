@@ -6,7 +6,7 @@
   <a href="mailto:acrnm148@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/acrnm148@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a/>
-  <a href="#" target="_blank">
+  <a href="https://www.notion.so/sunakang/df20017a98a8444d96c2b75a3e380214" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black"/>
   <a/>
 </div>
