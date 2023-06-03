@@ -3,7 +3,7 @@
   <a href="https://k-ang.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/My Blog-FD3A5C?style=flat-square&logo=tvtime&logoColor=white"/>
   <a/>
-  <a href="mailto:acrnm148@gmail.com" target="_blank">
+  <a href="mailto:developersuna99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/acrnm148@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a/>
 </div>
