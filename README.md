@@ -39,9 +39,3 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acrnm148)](https://solved.ac/profile/acrnm148)
 </div>
-<br/>
-<h3 align="center"> GitHub stats </h3>
-<div align="center">
-  
-  ![Suna's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrnm148&show_icons=true&theme=white)
-</div>
